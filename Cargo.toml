@@ -1,0 +1,9 @@
+[package]
+name = "howe_work"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.9.0-alpha.2"
+regex = "1.11.1"
+uuid = { version = "1.11.0", features = ["v4"] }
